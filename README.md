@@ -29,26 +29,16 @@ Of course that's not my real name. It's Aadi(or Ed). I'm an engineer and hobbyis
 
 
 
-<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?collection_id=2&activity=stars" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Repository Annual Ranking in Open Source Database" src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?collection_id=2&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-
-
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=801731839" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="721" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=801731839&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Lines of Code Changes of SolidStateKygo/SolidStateKygo" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=801731839&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
 
 
 ## ⚡ Fun fact: 
