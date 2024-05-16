@@ -6,6 +6,7 @@ Of course that's not my real name. It's Aadi(or Ed). I'm an engineer and hobbyis
 
 ![<SolidStateKygo>'s Stats](https://github-readme-stats.vercel.app/api?username=<SolidStateKygo>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![](https://komarev.com/ghpvc/?username=SolidStateKygo&color=blue&style=flat-square)
 
 ## 🚀 About Me
 - 🔭 I’m currently pursuing my Bachelor's in Electronics and Communication Engineering.
