@@ -32,9 +32,9 @@ Of course that's not my real name. It's Aadi(or Ed). I'm an engineer and hobbyis
 
 
 ## 📫 Get in Touch:
-- ![Twitter] (https://skillicons.dev/icons?i=twitter) (https://twitter.com/jinxkernel)
-- ![Instagram] (https://skillicons.dev/icons?i=instagram) (https://instagram.com/_.ed._13)
-- ![Discord] (https://skillicons.dev/icons?i=discord) (https://discord.com/aadi0134)
+- [Twitter] (https://twitter.com/jinxkernel)
+- [Instagram] (https://instagram.com/_.ed._13)
+- [Discord] (https://discord.com/aadi0134)
 
 Let's connect and explore the huge world of Science and Technology together.
 
