@@ -10,7 +10,7 @@ Of course that's not my real name. I'm an engineer and hobbyist who just love Te
 - 📖 I'm a book nerd and love to read about Technological history and Science fiction.
 - 👯 I’m looking to collaborate on open-source Machine Learning and Internet-of-Things projects.
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi,py,numpy,pandas,seaborn,matplotlib,sklearn,tensorflow,opencv,js,html,css,matlab,git,github,anaconda,vscode,windows,twitter,instagram,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi,py,sklearn,tensorflow,opencv,js,html,css,matlab,git,github,anaconda,vscode,windows,twitter,instagram,discord,linkedin)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀Machine and Deep Learning.
@@ -19,6 +19,9 @@ Of course that's not my real name. I'm an engineer and hobbyist who just love Te
 - Generative Agents
 - How Recurrent Neural Networks remember stuff
 - Different Communication Protocols
+
+![ComputerNerdsGIF](https://github.com/SolidStateKygo/SolidStateKygo/assets/155265640/6b0ab15c-e3bd-4037-8ceb-2e465b14d7a1)
+
 
 ## 📫 Get in Touch:
 - [Twitter](https://twitter.com/jinxkernel)
