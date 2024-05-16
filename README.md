@@ -14,7 +14,7 @@ Of course that's not my real name. I'm an engineer and hobbyist who just love Te
 - 🔮 Looking to learn about Satellite Communication, Humanoids, CUDA programming and Rust after sometime.
 - 🤖 Gonna build robots in future.
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi,py,sklearn,tensorflow,opencv,js,html,css,matlab,git,github,anaconda,vscode,windows,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,raspberrypi,py,sklearn,tensorflow,opencv,js,html,css,matlab,git,github,anaconda,vscode,windows)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀Machine and Deep Learning.
